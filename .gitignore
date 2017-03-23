@@ -6,3 +6,8 @@ node_modules/
 /gulp_tasks/
 /conf/
 !/dist/
+/gulpfile.js
+/.yo-rc.json
+/.editorconfig
+/.babelrc
+/src/

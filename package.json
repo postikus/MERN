@@ -8,7 +8,8 @@
     "build": "gulp",
     "serve": "gulp serve",
     "serve:dist": "gulp serve:dist",
-    "test:auto": "gulp test:auto"
+    "test:auto": "gulp test:auto",
+    "start": "src "
   },
   "repository": {
     "type": "git",
@@ -23,6 +24,7 @@
   "dependencies": {
     "classnames": "^2.2.5",
     "es6-shim": "^0.35.3",
+    "express": "^4.15.2",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
     "react-redux": "^5.0.2",
